@@ -17,3 +17,12 @@
     font-size: 18px;
     font-weight: 400;
 }
+.focused-flex{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+}
+.half-width img{
+    width: 100%;
+}
