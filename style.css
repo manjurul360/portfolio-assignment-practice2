@@ -8,3 +8,12 @@
 .mission-color{
     color: orange;
 }
+.explore-button{
+    text-decoration: none;
+    color: white;
+    background-color: coral;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 400;
+}
