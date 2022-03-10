@@ -33,6 +33,13 @@
     font-family: 'Work Sans', sans-serif;
     font-size: 40px;
 }
+.mission-maindiv{
+    display: flex;
+}
+.mission-2022{
+    background-color: powderblue;
+    padding: 5px;
+}
 .mission-2022 img{
     width: 10%;
 }
