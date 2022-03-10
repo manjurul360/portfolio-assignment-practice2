@@ -25,6 +25,14 @@
     width: 40%;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
+    margin-top: 20px;
     margin-left: 30%;
+}
+.mission-header{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 40px;
+}
+.mission-2022 img{
+    width: 10%;
 }
