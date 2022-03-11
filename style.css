@@ -71,9 +71,14 @@ body{
 .dev-button{
     text-decoration: none;
     background-color: tomato;
-    padding: 15px 30px;
+    padding: 10px 25px;
     border-radius: 7px;
     color: white;
+    font-family: 'Work Sans', sans-serif;
     font-size: 18px;
     font-weight: 400;
+}
+.dev-h1{
+    font-size: 40px;
+    font-family: 'Work Sans', sans-serif;
 }
