@@ -90,6 +90,10 @@ body{
     font-size: 40px;
     font-family: 'Work Sans', sans-serif;
 }
+.community-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+}
 .community-img img{
     width: 50%;
 }
