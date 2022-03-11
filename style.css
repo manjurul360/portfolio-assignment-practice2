@@ -97,3 +97,10 @@ body{
 .community-img img{
     width: 50%;
 }
+.app-maindiv{
+    display: flex;
+    width: 90%;
+}
+.app-maindiv img{
+    width: 70%;
+}
