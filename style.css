@@ -60,3 +60,9 @@ body{
 .goals-part{
     background-color: rgb(250, 192, 104);
 }
+.dev-maindiv{
+    display: flex;
+}
+.dev-maindiv img{
+    width: 50%;
+}
