@@ -1,5 +1,6 @@
-body{
-    /* margin: 50px 60px 50px 60px; */
+body p{
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 30px;
 }
 .section-1{
     margin: 50px 60px 50px 60px;
@@ -22,6 +23,9 @@ body{
     border-radius: 5px;
     font-size: 18px;
     font-weight: 400;
+}
+#scroll-text{
+    margin-top: 30px;
 }
 .focused-flex{
     display: flex;
@@ -115,4 +119,15 @@ footer{
     background-color: black;
     height: 200px;
     width: 100%;
+    color: white;
+    text-align: center;
+}
+.footer-content{
+    padding-top: 30px;
+}
+.footer-h1{
+    font-family: 'Sansita Swashed', cursive;
+}
+.mission-footer{
+    color: tomato;
 }
