@@ -38,9 +38,15 @@
     display: flex;
 }
 .mission-2022{
-    background-color: powderblue;
-    padding: 5px;
+    width: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    background-color: skyblue;
 }
 .mission-2022 img{
     width: 10%;
+}
+.mission-width{
+    /* width: 25%; */
 }
