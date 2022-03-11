@@ -60,6 +60,14 @@ body{
 .goals-part{
     background-color: rgb(250, 192, 104);
 }
+.develop-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.develop-section img{
+    width: 20%;
+}
 .dev-maindiv{
     display: flex;
     margin-top: 80px;
