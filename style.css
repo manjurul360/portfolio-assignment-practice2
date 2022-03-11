@@ -71,7 +71,7 @@ body{
 .dev-maindiv{
     display: flex;
     margin-top: 80px;
-    width: 85%;
+    width: 90%;
 }
 .dev-maindiv img{
     width: 70%;
@@ -89,4 +89,7 @@ body{
 .dev-h1{
     font-size: 40px;
     font-family: 'Work Sans', sans-serif;
+}
+.community-img img{
+    width: 50%;
 }
