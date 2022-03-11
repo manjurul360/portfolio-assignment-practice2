@@ -62,7 +62,18 @@ body{
 }
 .dev-maindiv{
     display: flex;
+    margin-top: 80px;
+    width: 85%;
 }
 .dev-maindiv img{
-    width: 50%;
+    width: 70%;
+}
+.dev-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 30px;
+    border-radius: 7px;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
 }
