@@ -1,7 +1,9 @@
 body{
+    /* margin: 50px 60px 50px 60px; */
+}
+.section-1{
     margin: 50px 60px 50px 60px;
 }
-
 .stay-focused{
     font-size: 35px;
     font-family: 'Crete Round', serif;
@@ -61,6 +63,7 @@ body{
     background-color: rgb(250, 192, 104);
 }
 .develop-section{
+    margin: 50px 60px 50px 60px;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: right;
@@ -91,11 +94,15 @@ body{
     font-family: 'Work Sans', sans-serif;
 }
 .community-section{
+    margin: 50px 60px 50px 60px;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
 }
 .community-img img{
     width: 50%;
+}
+.coronaapp-section{
+    margin: 50px 60px 50px 60px;
 }
 .app-maindiv{
     display: flex;
@@ -103,4 +110,9 @@ body{
 }
 .app-maindiv img{
     width: 70%;
+}
+footer{
+    background-color: black;
+    height: 200px;
+    width: 100%;
 }
